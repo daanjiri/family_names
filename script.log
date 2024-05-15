@@ -1,0 +1,57 @@
+2024-05-15 08:55:15,545 - INFO - ====== WebDriver manager ======
+2024-05-15 08:55:15,651 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-15 08:55:15,870 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-15 08:55:16,000 - INFO - There is no [linux64] chromedriver "124.0.6367.207" for browser google-chrome "124.0.6367" in cache
+2024-05-15 08:55:16,000 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-15 08:55:16,294 - INFO - WebDriver version 124.0.6367.207 selected
+2024-05-15 08:55:16,297 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/linux64/chromedriver-linux64.zip
+2024-05-15 08:55:16,297 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.207/linux64/chromedriver-linux64.zip
+2024-05-15 08:55:16,693 - INFO - Driver downloading response is 200
+2024-05-15 08:55:16,859 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-15 08:55:17,238 - INFO - Driver has been saved in cache [/home/daanjiri/.wdm/drivers/chromedriver/linux64/124.0.6367.207]
+2024-05-15 08:55:26,597 - INFO - Extracted data from https://www.oxfordreference.com/display/10.1093/acref/9780190245115.001.0001/acref-9780190245115-e-1?rskey=NLeUM0&result=1
+2024-05-15 08:55:30,256 - INFO - Extracted data from https://www.oxfordreference.com/display/10.1093/acref/9780190245115.001.0001/acref-9780190245115-e-2?rskey=NLeUM0&result=2
+2024-05-15 08:55:33,928 - INFO - Extracted data from https://www.oxfordreference.com/display/10.1093/acref/9780190245115.001.0001/acref-9780190245115-e-3?rskey=NLeUM0&result=3
+2024-05-15 08:55:37,508 - INFO - Extracted data from https://www.oxfordreference.com/display/10.1093/acref/9780190245115.001.0001/acref-9780190245115-e-4?rskey=NLeUM0&result=4
+2024-05-15 08:55:41,221 - INFO - Extracted data from https://www.oxfordreference.com/display/10.1093/acref/9780190245115.001.0001/acref-9780190245115-e-5?rskey=NLeUM0&result=5
+2024-05-15 08:55:44,831 - INFO - Extracted data from https://www.oxfordreference.com/display/10.1093/acref/9780190245115.001.0001/acref-9780190245115-e-6?rskey=NLeUM0&result=6
+2024-05-15 08:55:48,416 - INFO - Extracted data from https://www.oxfordreference.com/display/10.1093/acref/9780190245115.001.0001/acref-9780190245115-e-7?rskey=NLeUM0&result=7
+2024-05-15 08:55:52,094 - INFO - Extracted data from https://www.oxfordreference.com/display/10.1093/acref/9780190245115.001.0001/acref-9780190245115-e-8?rskey=NLeUM0&result=8
+2024-05-15 08:55:55,760 - INFO - Extracted data from https://www.oxfordreference.com/display/10.1093/acref/9780190245115.001.0001/acref-9780190245115-e-9?rskey=NLeUM0&result=9
+2024-05-15 08:55:59,367 - INFO - Extracted data from https://www.oxfordreference.com/display/10.1093/acref/9780190245115.001.0001/acref-9780190245115-e-10?rskey=NLeUM0&result=10
+2024-05-15 08:56:02,927 - INFO - Extracted data from https://www.oxfordreference.com/display/10.1093/acref/9780190245115.001.0001/acref-9780190245115-e-11?rskey=NLeUM0&result=11
+2024-05-15 08:56:06,527 - INFO - Extracted data from https://www.oxfordreference.com/display/10.1093/acref/9780190245115.001.0001/acref-9780190245115-e-12?rskey=NLeUM0&result=12
+2024-05-15 08:56:10,159 - INFO - Extracted data from https://www.oxfordreference.com/display/10.1093/acref/9780190245115.001.0001/acref-9780190245115-e-13?rskey=NLeUM0&result=13
+2024-05-15 08:56:14,130 - INFO - Extracted data from https://www.oxfordreference.com/display/10.1093/acref/9780190245115.001.0001/acref-9780190245115-e-14?rskey=NLeUM0&result=14
+2024-05-15 08:57:06,018 - INFO - ====== WebDriver manager ======
+2024-05-15 08:57:06,126 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-15 08:57:06,307 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-15 08:57:06,483 - INFO - Driver [/home/daanjiri/.wdm/drivers/chromedriver/linux64/124.0.6367.207/chromedriver-linux64/chromedriver] found in cache
+2024-05-15 08:57:16,420 - INFO - Extracted data from https://www.oxfordreference.com/display/10.1093/acref/9780190245115.001.0001/acref-9780190245115-e-15?rskey=NLeUM0&result=15
+2024-05-15 08:57:20,571 - INFO - Extracted data from https://www.oxfordreference.com/display/10.1093/acref/9780190245115.001.0001/acref-9780190245115-e-16?rskey=NLeUM0&result=16
+2024-05-15 08:57:24,628 - INFO - Extracted data from https://www.oxfordreference.com/display/10.1093/acref/9780190245115.001.0001/acref-9780190245115-e-17?rskey=NLeUM0&result=17
+2024-05-15 08:57:28,548 - INFO - Extracted data from https://www.oxfordreference.com/display/10.1093/acref/9780190245115.001.0001/acref-9780190245115-e-18?rskey=NLeUM0&result=18
+2024-05-15 08:57:32,595 - INFO - Extracted data from https://www.oxfordreference.com/display/10.1093/acref/9780190245115.001.0001/acref-9780190245115-e-19?rskey=NLeUM0&result=19
+2024-05-15 08:57:36,810 - ERROR - Failed to extract data from https://www.oxfordreference.com/display/10.1093/acref/9780190245115.001.0001/acref-9780190245115-e-20?rskey=NLeUM0&result=20: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=124.0.6367.155)
+Stacktrace:
+#0 0x624a55d6edc3 <unknown>
+#1 0x624a55a5d4e7 <unknown>
+#2 0x624a55a33b7e <unknown>
+#3 0x624a55ad270d <unknown>
+#4 0x624a55ae85b6 <unknown>
+#5 0x624a55aca1f3 <unknown>
+#6 0x624a55a9b28a <unknown>
+#7 0x624a55a9bc5e <unknown>
+#8 0x624a55d330eb <unknown>
+#9 0x624a55d3703b <unknown>
+#10 0x624a55d1f201 <unknown>
+#11 0x624a55d37ba2 <unknown>
+#12 0x624a55d040bf <unknown>
+#13 0x624a55d5df18 <unknown>
+#14 0x624a55d5e0f0 <unknown>
+#15 0x624a55d6df14 <unknown>
+#16 0x787d8c294ac3 <unknown>
+
+2024-05-15 08:57:36,857 - INFO - ====== WebDriver manager ======
